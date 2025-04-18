@@ -3,6 +3,7 @@
 em documentos CSV's e carrego para os modelos de Machine Learning trabalharem com eles depois de pré processados.
 - EDA : Análise Exploratória dos dados, para descobrir padrões, normalizar e pré processar os dados para os modelos de Machine Learning
 - ML : Utilização de modelos para prever vitórias e derrotas dado as partidas de um jogador, no caso utilizei os dados do jogador Arthur Lanches
+- Clusterização que relaciona performance e taxa de vitória, dividindo entre partidas de "baixo" e "grande" desempenho, que me confirmou análises feitas na parte exploratória.
 
 ## Algumas imagens do projeto
 ** Dados retirados via API da Riot Games, já salvos em CSV e carregados para um DataFrame **
